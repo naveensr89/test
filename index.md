@@ -25,9 +25,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-```markdown
-# Test Markdown inside Markdown
-```
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
